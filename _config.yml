@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: a guy with a really unique linktree
+name: Michelle Mesquita
+bio: AppSec Engineer & Tricolor 🇭🇺 
 
 # twitter summary info
-description: john's nifty linktreehosted on github pages.
+#description: john's nifty linktreehosted on github pages.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 url: https://zchef2k.github.io/indigo-linkinbio
 permalink: /:title/
@@ -22,22 +22,23 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook:
-# twitter:
-instagram: johndoe
+twitter: michellemesquita.bsky.social
+#instagram: 
 # pinterest:
-linkedin: johndoe
+# linkedin: michelleamesquita
 # youtube: 
 # spotify:  
-github: johndoe
+github: michelleamesquita
 # gitlab: 
 # lastfm: 
 # stackoverflow: 
 # quora: 
 # reddit: 
-# medium: 
+# medium: michelleamesquita
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: johndoe@gmail.com
+email: michelleamesquita@gmail.com
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
